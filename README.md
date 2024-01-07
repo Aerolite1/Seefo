@@ -1,6 +1,6 @@
-# This was just a mini-project I did while procrastinating, don't expect it to be good.
+# Worse SeedInfo tool
 
-A worse SeedInfo tool
+# This was just a mini-project I did while procrastinating, don't expect it to be good.
 
 A (badly made) python version of SeedTypeInfo by panda4994 with some elements/tools from Cubiomes by Cubitect
 
