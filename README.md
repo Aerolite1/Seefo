@@ -1,6 +1,7 @@
 # This was just a mini-project I did while procrastinating, don't expect it to be good.
 
 A worse SeedInfo tool
+
 A (badly made) python version of SeedTypeInfo by panda4994 with some elements/tools from Cubiomes by Cubitect
 
 Can make large lists of posible strings for an integer seed
