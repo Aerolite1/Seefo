@@ -4,9 +4,17 @@
 
 A (badly made) python version of SeedTypeInfo by panda4994 with some elements/tools from Cubiomes by Cubitect
 
-Can make large lists of posible strings for an integer seed
+# Features:
 
-Can save all 2^16 sister seeds to an output file
+Can make large lists of possible strings for an integer seed
+
+Can save all 2^16 sister integer seeds to an output file
+
+Can translate str to int and int to str
+
+Can take a string input and create more strings that result in the same seed
+
+Can copy all sister seeds from a string and save it as a file
 
 Instructions:
 1. Download either the py OR exe
