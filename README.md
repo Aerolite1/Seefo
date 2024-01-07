@@ -7,3 +7,5 @@ Instructions:
 2. Run the file
 3. Follow the steps
 4. Pray that I didnt mess up my code :c
+
+Note: duplicate the output folder if you want to save the data, as it will be overwritten the next time you run the code.
