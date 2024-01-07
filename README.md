@@ -16,7 +16,7 @@ Can take a string input and create more strings that result in the same seed
 
 Can copy all sister seeds from a string and save it as a file
 
-Instructions:
+# Instructions:
 1. Download either the py OR exe
 2. Run the file
 3. Follow the steps
