@@ -18,9 +18,10 @@ Can copy all sister seeds from a string and save it as a file
 
 # Instructions:
 1. Download either the py OR exe
-2. Run the file
-3. Follow the steps
-4. Pray that I didnt mess up my code :c
+2. pip install pyenchant
+3. Run the file
+4. Follow the steps
+5. Pray that I didnt mess up my code :c
 
 # Note: duplicate the output folder if you want to save the data, as it will be overwritten the next time you run the code.
 # Note #2: Id recommend only using the write to file option for the exe version, as shell might crash if it prints too many sister seeds. If you're using thonny or pycharm then it should be fine
